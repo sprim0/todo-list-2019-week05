@@ -39,3 +39,5 @@ function clearAll(){
 
 /*once user clicks on completed task and clicks 'clear completed, make list-item disappear from ul.
 re-appear in new ul under*/
+
+// Javascript code completed in community hours with the help of mentors including Sam L. & Michael Kazin
