@@ -11,3 +11,4 @@ I'm really proud of this to-do list. The fuctions work really well and it did no
 
 
 
+<img width="759" height="623" alt="Screenshot 2025-10-07 at 3 07 38 AM" src="https://github.com/user-attachments/assets/522e93bd-a15a-4cea-8a7d-aca83bf57fe6" />
